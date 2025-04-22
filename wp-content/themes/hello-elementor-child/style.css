@@ -1,0 +1,35 @@
+/* style.css */
+ /*
+ Theme Name: Hello Elementor Child
+ Template: hello-elementor
+ */
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin-bottom: 0;
+  margin-bottom: -20px;
+}
+
+.footer {
+  padding: 0;
+}
+
+.content {
+  margin-top: 0;
+}
+.first-section-class {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.empty-widget {
+  display: none;
+}
